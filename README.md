@@ -21,7 +21,7 @@ $ omf install https://github.com/demartini/plugin-docker-compose
 With [fisher][fisher-link]
 
 ```fish
-$ fisher add demartini/plugin-docker-compose
+$ fisher install demartini/plugin-docker-compose
 ```
 
 ## Usage
